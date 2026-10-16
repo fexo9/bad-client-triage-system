@@ -8,3 +8,8 @@ No pep talks. Just the P&L truth and the exact words to exit professionally.
 - **Getly ($29):** https://www.getly.store/product/bad-client-triage-firing-system
 - **SellApp ($29, USDT):** https://digitaltoolkitstore.sell.app/product/bad-client-triage-firing-system
 More tools: https://www.getly.store/store/quoteguard-mtg2lwr7
+
+## Contact
+
+- Telegram: https://t.me/Digitaltoolkitstore
+- Email: poodepoo@gmail.com
