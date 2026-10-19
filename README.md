@@ -39,7 +39,7 @@ inventory. Price unchanged at $29.
 
 - **Free sample:** the core math, one scored FICTIONAL client, the 4
   firing signals. https://github.com/fexo9/bad-client-triage-system/blob/main/FREE-SAMPLE-Bad-Client-Triage.md
-- **Demo video:** 72-second walkthrough of the real files. https://youtu.be/LhR08EeiAUk
+- **Demo video:** 72-second walkthrough of the real files. https://www.youtube.com/watch?v=wrz3t6W9WEQ
 
 ## What it does NOT do
 
